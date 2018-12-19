@@ -44,8 +44,6 @@
 
 #include <thread>
 
-#include <thread>
-
 #ifndef UMOUNT_NOFOLLOW
 #define UMOUNT_NOFOLLOW    0x00000008  /* Don't follow symlink on umount */
 #endif
